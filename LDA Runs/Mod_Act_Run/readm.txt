@@ -1,0 +1,2 @@
+This folder contains the LDA models from the moderately active dataset. 
+It also contains the PyLDAVis visualizations for each of the models. 
